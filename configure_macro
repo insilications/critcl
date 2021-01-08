@@ -1,1 +1,1 @@
-tclsh build.tcl --help
+echo "tclsh"

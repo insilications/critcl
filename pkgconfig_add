@@ -1,9 +1,4 @@
 # This file contains additional pkgconfig build requirements that did
 # not get picked up automatically. One name per line, no whitespace.
-quazip
 tcl
 tk
-x11
-xext
-xft
-zlib

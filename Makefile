@@ -1,5 +1,5 @@
-PKG_NAME := tkimg
-URL = file:///insilications/apps/tkimg-v534.tar.gz
+PKG_NAME := critcl
+URL = https://github.com/andreas-kupries/critcl.git
 ARCHIVES = 
 
 include ../common/Makefile.common
